@@ -29,9 +29,11 @@ Analysis: Specific metrics involved within our spreadsheet and charting analysis
 Conclusions based on the “Outcomes Based on Launch Date” chart: 
 
 1. The optimum time for launch of fundraising efforts is in early May and declines steadily over the remainder of the year with a slight rise in October
-	2. Failed projects peak in early May as well but remain somewhat constant throughout the year although at a much lower level than successful projects. 
+2. Failed projects peak in early May as well but remain somewhat constant throughout the year although at a much lower level than successful projects. 
+
 ### Analysis of Outcomes Based on Goals
-![image](https://user-images.githubusercontent.com/101996041/162111667-d10f2582-d797-46b0-baef-22eeb0e7cf3f.png)
+
+![image](https://user-images.githubusercontent.com/101996041/162113462-b79f931d-6613-4552-b3fa-1fef23533779.png)
 
 Conclusions based on the “Analysis of Outcomes Based on Goals” chart:  
 
